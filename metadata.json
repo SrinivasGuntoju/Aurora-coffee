@@ -1,0 +1,6 @@
+{
+  "name": "Aurora Coffee",
+  "description": "Ultra-luxury cinematic coffee roasters showcase, interactive 3D coffee lab, and artisanal store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
